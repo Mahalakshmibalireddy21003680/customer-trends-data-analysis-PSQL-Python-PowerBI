@@ -40,7 +40,6 @@ Identified trends and patterns in customer behavior
 Example analysis visualization:
 
 <img width="1920" height="1020" alt="Screenshot 2026-03-10 060912" src="https://github.com/user-attachments/assets/de15f663-51df-4378-a226-0193ec957db9" />
-<img width="1920" height="1020" alt="Screenshot 2026-03-10 061024" src="https://github.com/user-attachments/assets/54a7d385-d927-4ae4-b32e-121e448651fe" />
 <img width="1920" height="1020" alt="Screenshot 2026-03-10 060954" src="https://github.com/user-attachments/assets/f99dadd3-7183-4125-bedb-b5272f947c67" />
 <img width="1920" height="1020" alt="Screenshot 2026-03-10 060943" src="https://github.com/user-attachments/assets/ac5d3c9d-4335-4da9-b581-8f1ae9abb1d5" />
 <img width="1920" height="1020" alt="Screenshot 2026-03-10 060924" src="https://github.com/user-attachments/assets/6149d610-5a72-44ee-a199-358fd6d44f45" />
@@ -62,7 +61,9 @@ Purchase pattern insights
 
 Example SQL analysis output:
 
-4
+<img width="1920" height="1020" alt="Screenshot 2026-03-10 061024" src="https://github.com/user-attachments/assets/54a7d385-d927-4ae4-b32e-121e448651fe" />
+
+
 3️⃣ Interactive Dashboard (Power BI)
 
 An interactive Power BI dashboard was created to visualize insights and help stakeholders explore patterns.
@@ -81,7 +82,12 @@ Key dashboard features include:
 
 Dashboard Preview:
 
-4
+<img width="1920" height="1020" alt="Screenshot 2026-03-10 061402" src="https://github.com/user-attachments/assets/7534d819-0484-4fae-9c2a-7bb47ffe451e" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-03-10 061414" src="https://github.com/user-attachments/assets/b1bb0509-978d-4763-a714-1905386857c7" />
+
+
+
 📊 Key Insights from the Analysis
 
 Some important insights discovered include:

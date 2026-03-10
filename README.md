@@ -1,19 +1,127 @@
-# customer-trends-data-analysis-PSQL-Python-PowerBI
+👨🏻‍💻 Customer Behavior Data Analytics Portfolio Project
 
-# 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
-This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
+Welcome to my End-to-End Data Analytics Portfolio Project!
+This project demonstrates a complete industry-level data analytics workflow, transforming raw data into meaningful business insights and interactive visualizations.
+
+The goal is to replicate the real responsibilities of professional data analysts in modern organizations.
+
+📊 Project Objective
+
+This project simulates a corporate-level analytics pipeline, showcasing how businesses can leverage data to understand customer behavior and purchasing patterns.
+
+Through this project I demonstrate:
+
+Data cleaning and transformation
+
+Exploratory data analysis
+
+Business intelligence querying
+
+Interactive dashboard visualization
+
+Insight reporting for decision-making
+
+🔄 End-to-End Data Analytics Workflow
+
+This project follows a structured data analytics lifecycle used in real-world organizations.
+<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/6b3ecbcf-a99c-4a66-a96a-7fea95be1986" />
 
 
-## 📌 Project Overview
-The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
+1️⃣ Data Preparation & Exploratory Analysis (Python)
 
-✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+Cleaned raw dataset
 
-✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+Handled missing and inconsistent values
 
-✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+Performed exploratory data analysis
 
-✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+Identified trends and patterns in customer behavior
 
-![Project Workflow](https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654)
-## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo .🚀
+Example analysis visualization:
+
+<img width="1920" height="1020" alt="Screenshot 2026-03-10 060912" src="https://github.com/user-attachments/assets/de15f663-51df-4378-a226-0193ec957db9" />
+<img width="1920" height="1020" alt="Screenshot 2026-03-10 061024" src="https://github.com/user-attachments/assets/54a7d385-d927-4ae4-b32e-121e448651fe" />
+<img width="1920" height="1020" alt="Screenshot 2026-03-10 060954" src="https://github.com/user-attachments/assets/f99dadd3-7183-4125-bedb-b5272f947c67" />
+<img width="1920" height="1020" alt="Screenshot 2026-03-10 060943" src="https://github.com/user-attachments/assets/ac5d3c9d-4335-4da9-b581-8f1ae9abb1d5" />
+<img width="1920" height="1020" alt="Screenshot 2026-03-10 060924" src="https://github.com/user-attachments/assets/6149d610-5a72-44ee-a199-358fd6d44f45" />
+
+
+2️⃣ Data Analysis (SQL)
+
+SQL was used to simulate business-style queries to analyze customer purchasing behavior.
+
+Key analysis performed:
+
+Customer segmentation
+
+High-value customer identification
+
+Product category analysis
+
+Purchase pattern insights
+
+Example SQL analysis output:
+
+4
+3️⃣ Interactive Dashboard (Power BI)
+
+An interactive Power BI dashboard was created to visualize insights and help stakeholders explore patterns.
+
+Key dashboard features include:
+
+📍 Sales by location
+
+👥 Customer demographic analysis
+
+🛍 Product category performance
+
+💳 Payment method distribution
+
+📈 Purchase behavior trends
+
+Dashboard Preview:
+
+4
+📊 Key Insights from the Analysis
+
+Some important insights discovered include:
+
+Certain product categories drive the highest revenue
+
+Customer age groups influence purchasing behavior
+
+Location-based sales trends reveal strong regional markets
+
+Payment preferences vary across customer segments
+
+These insights help businesses make data-driven strategic decisions.
+
+🛠 Tools & Technologies Used
+Tool	Purpose
+Python	Data cleaning & exploratory analysis
+PostgreSQL	Business query analysis
+Power BI	Interactive dashboard creation
+GitHub	Project documentation
+🚀 Skills Demonstrated
+
+✔ Data Cleaning & Preprocessing
+✔ Exploratory Data Analysis (EDA)
+✔ SQL Business Queries
+✔ Power BI Dashboard Development
+✔ Data Storytelling & Business Insights
+
+🌟 Final Outcome
+
+This project demonstrates how raw customer data can be transformed into meaningful business intelligence through a structured analytics workflow.
+
+The final output includes:
+
+Cleaned analytical dataset
+
+SQL business insights
+
+Interactive Power BI dashboard
+
+Professional analytical documentation
+
+

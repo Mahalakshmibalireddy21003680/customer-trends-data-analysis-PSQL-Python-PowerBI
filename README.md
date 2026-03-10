@@ -1,4 +1,4 @@
-### 👨🏻‍💻 Customer Behavior Data Analytics Portfolio Project
+# 👨🏻‍💻 Customer Behavior Data Analytics Portfolio Project
 
 Welcome to my End-to-End Data Analytics Portfolio Project!
 
